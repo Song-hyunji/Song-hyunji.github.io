@@ -7,11 +7,10 @@ url: "https://song-hyunji.github.io"
 
 
 # Secondary Parameters
-baseurl: "/songhyunji"
+baseurl: "/project-pages"
 header-img: img/beach.jpg
 headercolor: "#FFFFFF"
-logo: "HELLO"
-# logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  song-hyunji
@@ -107,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="http://song-hyunji.github.io/project-pages/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -115,7 +114,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="http://song-hyunji.github.io/project-pages/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"

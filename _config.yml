@@ -1,6 +1,6 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: Hyunz Pages
+description: "안녕하세요 ~!"
 url: "https://song-hyunji.github.io"
 
 
@@ -10,7 +10,7 @@ url: "https://song-hyunji.github.io"
 baseurl: "/"
 header-img: img/beach.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+# logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  song-hyunji

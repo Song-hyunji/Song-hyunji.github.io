@@ -7,7 +7,7 @@ url: "https://song-hyunji.github.io"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/"
 header-img: img/beach.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
